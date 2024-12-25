@@ -1,0 +1,5 @@
+title: "Nana's Cookbook"
+author: "written by betty williams - digitized by josh felton"
+sections:
+  - name: "holiday-meals"
+    file: "holiday-meals/index.yaml"

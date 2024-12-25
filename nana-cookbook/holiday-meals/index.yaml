@@ -1,0 +1,4 @@
+title: "holiday recipes"
+recipes:
+  - name: "mac and cheese"
+    file: "mac-and-cheese.yaml"
